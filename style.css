@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(240, 240, 240);
+  color: #575F7D;
+  font-family: Roboto Condensed;
+  font-size: 18px;
+  margin-top: 40px;
+}
+
+.card-white {
+  background-color: white;
+  width: 500px;
+  padding: 30px;
+  box-shadow: 2px 2px 5px black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+h1 {
+  font-family: space mono;
+  letter-spacing: 2px;
+  color: teal;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.button {
+  background-color: rgb(100 100 100);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+a {
+  color: skyblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: aqua;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+}
+
